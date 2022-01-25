@@ -1,0 +1,18 @@
+### VisualStudioCode ###
+.vscode/*
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+# Dependency directories
+node_modules
+bower_components
+
+
+psd
+thumb
+sketch
